@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "f598b91bfa9cef29",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a670c82a0af1e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a85d4f782ff3480f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机系统/计算机系统概论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机系统概论"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8427c464cb02385",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b9859ac7d6d863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f67469e80e5399",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "add2a78e189fcf1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "625504147dd343e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "29aefed9414ca12e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1633f2ae4e533ce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d023c50de844deaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/分支.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "分支 的反向链接列表"
+            }
+          },
+          {
+            "id": "8ebd977e2e57f36e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git/分支.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "分支 的出链列表"
+            }
+          },
+          {
+            "id": "a6c1fc384f6051de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7ec7c27b8523f4b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "471bcd2b980155b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "网络编程/网络协议.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "网络协议 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "13f67469e80e5399",
+  "lastOpenFiles": [
+    "计算机系统/数据的机器级表示与处理.md",
+    "CMake/CMake基础.md",
+    "CMake/搜索文件.md",
+    "CMake/库文件操作.md",
+    "CMake/输出路径的指定.md",
+    "数据结构与STL/线段树.md",
+    "数据结构与STL/树状数组.md",
+    "数据结构与STL/并查集.md",
+    "算法/算法/滑动窗口.md",
+    "算法/算法/单调队列.md",
+    "算法/算法/dp",
+    "算法/算法/数论",
+    "数据结构与STL/树.md",
+    "算法/算法/kmp算法.md",
+    "算法/算法/贪心.md",
+    "算法/算法/动态规划.md",
+    "算法/算法/单调栈.md",
+    "算法/算法/前缀和与差分.md",
+    "算法/算法总览.md",
+    "算法/刷题/模版题/【模版】 二维前缀和.md",
+    "img/5/4.png",
+    "img/5/3.png",
+    "算法/刷题/UVWXYZ/最大子段和.md",
+    "img/5/2.png",
+    "算法/刷题/模版题/【模版】 前缀和.md",
+    "img/5/1.png",
+    "img/5",
+    "img/未命名.md",
+    "QQ_1775561216093.png",
+    "算法/算法/图论/spfa算法.md",
+    "算法/算法/图论/bellman-ford算法.md",
+    "算法/算法/图论/dijkstra算法.md",
+    "算法/算法/图论/kruskal算法.md",
+    "算法/算法/图论/prim算法.md",
+    "算法/算法/图论",
+    "img/4/10.png",
+    "img/4/QQ_1774874996703.png",
+    "img/4/9.png",
+    "img/4/QQ_1774874554939.png",
+    "QQ_1774681158990.png",
+    "数据库",
+    "操作系统",
+    "计算机组成原理",
+    "算法/刷题/模版题",
+    "算法/刷题/ABCDEFG/模版题",
+    "计算机系统",
+    "未命名.canvas"
+  ]
+}
